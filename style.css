@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+#log {
+    margin-top: 20px;
+    height: 200px;
+    overflow-y: auto;
+    border: 1px solid #aaa;
+    padding: 10px;
+}
